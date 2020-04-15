@@ -1,4 +1,4 @@
-# Case-study #5 "Tessellation"
+# Case-study #6 "AZS"
 # Developers: Besedina D. (%)
 #             Setskov M. (%)
 #             Moiseenko V. (%)
